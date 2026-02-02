@@ -1,6 +1,6 @@
 #  my C++ & System Programming learning 
 
-## 📌 Repository Overview
+
 This repository documents a  learning journey into  **Advanced C++** and bit of sys programming ,  
 It contains  projects and exercises, covering  fundamental object oriented design to Inter process communication (IPC) systems using shared memory and multi threading.
 
