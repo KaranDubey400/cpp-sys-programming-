@@ -8,7 +8,7 @@ used C++ and C
 
 
 ###  built Real-Time Telemetry Pipeline (C / POSIX)
-A high-performance system aimed at handling sensor data in a concurrent environment.
+
 *   **Architecture**: Uses **Producer-Consumer** model with multiple processes.
 *   **Core Technology**: 
     *   **POSIX Shared Memory** (`shm_open`, `mmap`) for zero-copy data exchange.
